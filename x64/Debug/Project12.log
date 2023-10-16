@@ -1,0 +1,3 @@
+﻿  Q5-1.c
+C:\Users\yongh\source\repos\Project12\Project12\Q5-1.c(8,7): warning C4101: 'trash' :참조되지 않은 지역 변수입니다.
+  Project12.vcxproj -> C:\Users\yongh\source\repos\Project12\x64\Debug\Project12.exe
